@@ -1,0 +1,12 @@
+C:\Users\krant\Desktop\Test\FizzBuzz\bin\Debug\net6.0\FizzBuzz.deps.json
+C:\Users\krant\Desktop\Test\FizzBuzz\bin\Debug\net6.0\FizzBuzz.dll
+C:\Users\krant\Desktop\Test\FizzBuzz\bin\Debug\net6.0\FizzBuzz.pdb
+C:\Users\krant\Desktop\Test\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\krant\Desktop\Test\FizzBuzz\obj\Debug\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krant\Desktop\Test\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\krant\Desktop\Test\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\krant\Desktop\Test\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\krant\Desktop\Test\FizzBuzz\obj\Debug\net6.0\FizzBuzz.dll
+C:\Users\krant\Desktop\Test\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzz.dll
+C:\Users\krant\Desktop\Test\FizzBuzz\obj\Debug\net6.0\FizzBuzz.pdb
+C:\Users\krant\Desktop\Test\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzz.dll
